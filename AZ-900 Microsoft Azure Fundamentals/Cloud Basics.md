@@ -5,4 +5,4 @@
 
 * **Pay-as-you-go**: You're billed only for what you use
   * Instead of mainiting CPU's and storage in your data center, yor rent them for the time that you need them.
-   * The cloud provider takes care if maininting the underlying infrastructure for you. 
+     * The cloud provider takes care if maininting the underlying infrastructure for you. 
