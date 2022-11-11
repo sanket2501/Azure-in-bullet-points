@@ -16,7 +16,7 @@
   3. **Serverless computing**
   * Serverless computing lets you run application code without creating, configuring, or maintaining a server. The core idea is that your application is broken into separate functions that run when triggered by some action. This is ideal for automated tasks - for example, you can build a serverless process that automatically sends an email confirmation after a customer makes an online purchase.
 
-![image](https://user-images.githubusercontent.com/69619339/201346230-debead00-9f85-4420-a6d1-e0d66c52ab6e.png)
+ ![image](https://user-images.githubusercontent.com/69619339/201346230-debead00-9f85-4420-a6d1-e0d66c52ab6e.png)
 
 
 
